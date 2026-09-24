@@ -1,0 +1,23 @@
+{
+  "repo": "solarwinds-engineers-universal-2026",
+  "product": "SolarWinds Engineers Universal 2026",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "network-tools",
+  "topics": [
+    "solarwinds-engineers-universal",
+    "solarwinds-windows",
+    "network-tools-desktop",
+    "how-to-install-solarwinds",
+    "solarwinds-engineers-universal-desktop-package",
+    "solarwinds-workspace",
+    "solarwinds-2026",
+    "solarwinds-engineers-universal-pro-tools",
+    "solarwinds-suite",
+    "zentool-solarwinds"
+  ],
+  "site": "zentool.art"
+}
